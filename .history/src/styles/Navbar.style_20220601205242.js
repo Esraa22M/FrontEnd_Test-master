@@ -73,6 +73,7 @@ export let ShoppingCartIcon = styled.div`
   cursor:pointer;
   width: 1.25rem;
   height: 0.813rem;
+  margin-left: 1.375rem;
   .cart-icon {
     width: 100%;
     height: 100%;
